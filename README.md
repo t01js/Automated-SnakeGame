@@ -2,7 +2,7 @@
 
 # Snake Game
 
-This is a classic game of Snake, written in Python using the Pygame library. The game is fully automated, as the snake moves towards the food by itself, this is to try diferent concepts of food finding. 
+This is a classic game of Snake, written in Python using the Pygame library. The game is fully automated, as the snake moves towards the food by itself, this is to try different concepts of food finding. 
 
 ## How it Works
 
@@ -26,5 +26,5 @@ pip install pygame
 
 ## How to Play
 
-This is not a playable game, this is more like a concept trial for future programs in which i will implement food finding 
+This is not a playable game, this is more like a concept trial for future programs in which I will implement food finding 
 
